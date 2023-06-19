@@ -1,3 +1,3 @@
 # Blog Page
 
-blog-page.priyanshukum124.repl.co
+http://blog-page.priyanshukum124.repl.co
